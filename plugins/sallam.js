@@ -1,7 +1,7 @@
 import fs from 'fs'
 import fetch from 'node-fetch'
 let handler  = async (m, { conn, usedPrefix: _p }) => {
-let info = `Walaikusallam`
+let info = `Waalaikumsalam, ada yang bisa Jiikuan bantu?`
 
 let td = 'application/vnd.openxmlformats-officedocument.wordprocessingml.document'
 conn.reply(m.chat, info, m, { contextInfo: { externalAdReply: {title: global.nameown, body: `BotzzMeeⓋ︎`, sourceUrl: snh, thumbnail: fs.readFileSync('./thumbnail.jpg')  }}})
