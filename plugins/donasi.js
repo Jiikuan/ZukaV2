@@ -1,13 +1,9 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
-┌─「 Donasi • Pulsa 」
-│ • *Axis:* [${global.ppulsa}]
-│ • *3:* [${global.ppulsa2}]
-❏────
-
-┌─「 Donasi • Non Pulsa 」
-│ • *Gopay:* [${global.pgopay}]
-│ • *Dana:* [${global.pdana}]
+┌─「 Donasi • AllPay 」
+│ • *Qris:* [${global.qris}]
+│ 
+│ *_KEPADA YTH. PENGGUNA BOT SAYA YG BAIK HATI, BOLEHKAH SAYA MEMINTA DONASI SEDIKIT SAJA/LEBIH UTK MEMAJUKAN KUALITAS BOT INI, TRIMS 🔥_*
 ❏────
 `
 const templateButtons = [
