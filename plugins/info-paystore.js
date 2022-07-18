@@ -11,7 +11,7 @@ let ph = '4'
 let pn = '20'
 let pp = '40'
 let pv = '50'
-let ppm = '70'
+let ppm = 'buat bot sendiri aja'
 let info = `
 ╭━━━━「 *SEWA* 」
 ┊⫹⫺ *Hemat:* _${sh}k/grup (1 minggu)_
@@ -30,8 +30,7 @@ let info = `
 ╰═┅═━––––––๑
 
 *⫹⫺ PAYMENT:*
-• *Dana:* [${pdana}]
-• *Gopay:* [${pgopay}]
+• *AllPay:* [${pqris}]
 
 –––––– *🐾 Kebijakan* ––––––
 🗣️: Kak, Kok harganya mahal banget?
