@@ -1,9 +1,10 @@
 let handler = async (m, { conn, usedPrefix: _p, __dirname, args }) => {
 let text = `
 ┌─「 Donasi • AllPay 」
-│ • *Qris:* [${global.qris}]
+│ • *Qris:* [${global.pqris}]
 │ 
-│ *_KEPADA YTH. PENGGUNA BOT SAYA YG BAIK HATI, BOLEHKAH SAYA MEMINTA DONASI SEDIKIT SAJA/LEBIH UTK MEMAJUKAN KUALITAS BOT INI, TRIMS 🔥_*
+ *_KEPADA YTH. PENGGUNA BOT SAYA YG BAIK HATI, BOLEHKAH SAYA MEMINTA DONASI SEDIKIT SAJA/LEBIH UTK MEMAJUKAN KUALITAS BOT INI, TRIMS 🔥_*
+│
 ❏────
 `
 const templateButtons = [
