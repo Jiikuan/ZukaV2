@@ -18,14 +18,14 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • No Telp`
 
 //------------ BIO
-let ppown = 'https://telegra.ph/file/02a2903c1e25228285740.jpg'
+let ppown = 'https://telegra.ph/file/7992156e87040d9cf731c.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
-❑ *Nama* :Bara
-❑ *Umur* :13 Tahun
-❑ *Kelas* :1 Smp
+❑ *Nama* :Zykuan
+❑ *Umur* :15 Tahun
+❑ *Kelas* :9 Mts
 
-❑ *Ulang Tahun* :18 Okto 2008
-❑ *Alamat* : Indonesia,Jawa Barat, Bandung
+❑ *Ulang Tahun* :03 Desem 2007
+❑ *Alamat* : Japan, Tokyo, Akihabara
 
 ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
