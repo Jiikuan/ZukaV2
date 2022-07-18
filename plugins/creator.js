@@ -31,7 +31,7 @@ ${htjava} *Instagram:* ${sig}
 ${htjava} *Github:* ${sgh}
 •·––––––––––––––––––––––––––·•
 `
-  let teks = 'P - Pilih dibawah kak'
+  let teks = 'Nih Kidz🥶'
 const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
