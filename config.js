@@ -42,10 +42,10 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
     
 
 /*============== SOCIAL ==============*/
-global.sig = '-'
+global.sig = 'https://instagram.com/-'
 global.sgh = 'https://github.com/AmakawaZKN'
 global.sgc = 'https://chat.whatsapp.com/GFXaVQ5wRpU9xtiJyhe8eT'
-global.sdc = '-'
+global.sdc = 'https://t.me/-'
 global.snh = 'wa.me/628979440862'
 
 /*============== PAYMENT ==============*/
