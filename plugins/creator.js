@@ -8,6 +8,16 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
   let nowner = `${nomorown.split`@`[0]}@s.whatsapp.net`
   let teksnomor = `${htki} *OWNER* ${htka}
 ✦ @${nomorown.split`@`[0]} ✦
+❑ *Nama* :Zykuan
+❑ *Umur* :15 Tahun
+❑ *Kelas* :9
+
+❑ *Ulang Tahun* :03 Desem 2007
+❑ *Alamat* : Japan, Tokyo, Akihabara
+
+${htjava} *Instagram:* ${sig}
+${htjava} *Github:* ${sgh}
+•·––––––––––––––––––––––––––·•
 ------- ${nameown} -------
 
 📮 *Note:*
@@ -16,7 +26,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 • Berbicaralah yang sopan & tidak spam
 • Owner Hanya merespon yang berkaitan dengan BOT
 • No Telp`
--------BIO------
+//-------BIO------
 let ppown = 'https://telegra.ph/file/7992156e87040d9cf731c.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
 ❑ *Nama* :Zykuan
