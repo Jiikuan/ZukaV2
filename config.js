@@ -45,7 +45,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 global.sig = 'https://instagram.com/-'
 global.sgh = 'https://github.com/AmakawaZKN'
 global.sgc = 'https://chat.whatsapp.com/GFXaVQ5wRpU9xtiJyhe8eT'
-global.sdc = 'wa.me/628979440862'
+global.stg = 'wa.me/628979440862'
 global.snh = 'wa.me/628979440862'
 
 /*============== PAYMENT ==============*/
