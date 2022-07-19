@@ -22,7 +22,7 @@ let ppown = 'https://telegra.ph/file/7992156e87040d9cf731c.jpg'
 let teksbio = `${htki} *BIODATA* ${htka}
 ❑ *Nama* :Zykuan
 ❑ *Umur* :15 Tahun
-❑ *Kelas* :9 Mts
+❑ *Kelas* :9
 
 ❑ *Ulang Tahun* :03 Desem 2007
 ❑ *Alamat* : Japan, Tokyo, Akihabara
