@@ -44,7 +44,7 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 global.sig = '-'
 global.sgh = 'https://github.com/AmakawaZKN'
-global.sgc = '-'
+global.sgc = 'https://chat.whatsapp.com/GFXaVQ5wRpU9xtiJyhe8eT'
 global.sdc = '-'
 global.snh = 'wa.me/628979440862'
 
