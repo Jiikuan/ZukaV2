@@ -110,16 +110,16 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 global.wm = '𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣' //Main Watermark
-global.wm2 = 'Halo Kidz, Selamat datang di 𝙕𝙮𝙠𝙪𝙖𝙣*BOT*'
+global.wm2 = 'Halo Kidz, Selamat datang di 𝙕𝙮𝙠𝙪𝙖𝙣 *BOT*'
 global.wm3 = '☘︎ 𝙕𝙮𝙠𝙪𝙖𝙣'
 global.botdate = `☘︎ 𝗗𝗮𝘁𝗲: ${week} ${date}\n☘︎ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = `*BE SMART USER*|𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
+global.titlebot = `𝗪𝗵𝗮𝘁𝘀𝗮𝗽𝗽 𝗕𝗼𝘁 𝗠𝘂𝗹𝘁𝗶-𝗗𝗲𝘃𝗶𝗰𝗲| By ${global.nameown}`
 global.author = '𝕵𝖎𝖎𝖐𝖚𝖆𝖓 | 𝙕𝙮𝙠𝙪𝙖𝙣' 
 
 
 /*============== LOGO ==============*/
-global.thumb = 'https://telegra.ph/file/478213f01c1b3de089267.jpg' //Main Thumbnail
+global.thumb = 'https://telegra.ph/file/7992156e87040d9cf731c.jpg' //Main Thumbnail
 global.imagebot = 'https://telegra.ph/file/7992156e87040d9cf731c.jpg'
 global.giflogo = 'https://telegra.ph/file/7992156e87040d9cf731c.jpg'
 global.thumbs = ['https://telegra.ph/file/7992156e87040d9cf731c.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg', 'https://telegra.ph/file/6048ec3e029520424c234.jpg','https://telegra.ph/file/6048ec3e029520424c234.jpg']
