@@ -17,7 +17,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ❑ *Alamat* : Japan, Tokyo, Akihabara
 
 ${htjava} *Instagram:* ${sig}
-${htjava} *Github:* ${sgh}
+${htjava} *Wangsaff:* ${snh}
 •·––––––––––––––––––––––––––·•
 ------- ${nameown} -------
 
