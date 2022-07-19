@@ -11,6 +11,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ❑ *Nama* :Zykuan
 ❑ *Umur* :15 Tahun
 ❑ *Kelas* :9
+❑ *Status* :Ada cewe
 
 ❑ *Ulang Tahun* :03 Desem 2007
 ❑ *Alamat* : Japan, Tokyo, Akihabara
