@@ -13,7 +13,7 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ❑ *Kelas* :9
 ❑ *Status* :Ada cewe
 
-❑ *Ulang Tahun* :03 Desem 2007
+❑ *Ulang Tahun* : ** Desem 2007
 ❑ *Alamat* : Japan, Tokyo, Akihabara
 
 ${htjava} *Instagram:* ${sig}
@@ -34,7 +34,7 @@ let teksbio = `${htki} *BIODATA* ${htka}
 ❑ *Umur* :15 Tahun
 ❑ *Kelas* :9
 
-❑ *Ulang Tahun* :03 Desem 2007
+❑ *Ulang Tahun* :** Desem 2007
 ❑ *Alamat* : Japan, Tokyo, Akihabara
 
 ${htjava} *Instagram:* ${sig}
